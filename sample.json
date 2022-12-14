@@ -1,0 +1,26 @@
+{
+   "inventionSubjectMatterCategory": "utility",
+   "patentApplicationNumber": "US13199806",
+   "filingDate": "09-10-2011",
+   "mainCPCSymbolText": null,
+   "furtherCPCSymbolArrayText": null,
+   "inventorNameArrayText": [
+    "Gerber Eliot"
+   ],
+   "abstractText": [
+    "A hybrid lead acid electric storage battery uses conventional lead-acid secondary battery chemistry. The battery is a sealed battery or an unsealed battery. The battery has a set of positive battery grids (plates) having cores of thin titanium expanded metal with a thickness, if flattened, preferably in the range 0.2 mm to 0.7 mm and most preferably 0.3 mm to 0.4 mm. The grid cores are of a titanium alloy containing a platinum group metal. The cores are coated with hot dip lead and are not lead electroplated."
+   ],
+   "assigneeEntityName": null,
+   "assigneePostalAddressText": "Moraga, US",
+   "inventionTitle": "Lead acid battery with titanium core grids and cabon based grids",
+   "filelocationURI": "https://dh-opendata.s3.amazonaws.com/publication_pdf/app_pdf_20120105/2012-01/US/2012/0003/509/A1/US20120003509A1.pdf",
+   "archiveURI": "https://bulkdata.uspto.gov/data/patent/application/redbook/bibliographic/2012/ipab20120105_wk01.zip",
+   "claimText": [
+    "1. A hybrid lead acid supercapacitor battery energy storage device comprising:a plurality of titanium core positive electrodes, a plurality of negative carbon electrode assemblies, a plurality of separators, a casing, and an acid electrolyte comprising an aqueous solution of sulfuric acid;wherein:(a) each of the titanium cores has an expanded metal body portion;(b) each of the titanium cores is a titanium alloy containing from 0.01 to 0.9% of a platinum group metal;(c) said titanium cores each having a flash electroplated coating of 0.5 to 10 microns of a metal selected from the group of copper, tin, and nickel;(d) said each carbon electrode assembly comprises a negative current collector comprising a sheet of metal;(e) two sheets of electronically conductive corrosion resistive shield material sealing said sheet of metal between them; and(g) a sheet of activated carbon and a binder adhered to and in electrical contact with a surface of said shield material.2."
+   ],
+   "descriptionText": [
+    "The present patent application is a continuation-in-part application partly based upon the applicant’s prior United States patent applications as follows: application Ser. No. 12/313,090 (20100092630) filed Nov. 17, 2008 now U.S. Pat. No. 7,732,098 and entitled Lead acid battery having ultra-thin titanium grids and application Ser. No. 12/799,734 filed May 3,2010 (20110033744) now US and entitled Long life lead acid battery having titanium core grids and method of their production, now U.S. Pat. No.The present invention relates to hybrid lead acid storage batteries, and more especially to the cells for such batteries.The need for improvements in lead-acid storage batteries is widely recognized.Hundreds of articles, patents and research projects have been directed toward improving such batteries."
+   ],
+   "publicationDate": "01-05-2012",
+   "publicationDocumentIdentifier": "US20120003509A1"
+}
